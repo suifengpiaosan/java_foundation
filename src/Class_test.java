@@ -1,4 +1,3 @@
-import org.omg.CORBA.MARSHAL;
 
 public class Class_test {
     public static void main(String[] args) {

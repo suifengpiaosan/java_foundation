@@ -10,6 +10,8 @@ public class Sort_selection {
         ) {
             System.out.print(value + " ");
         }
+
+
     }
     public static void selectionsort(double[] list){
         double temp = 0;
